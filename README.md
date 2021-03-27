@@ -1,7 +1,7 @@
-##Resumen del Artículo "Impact of Object Oriented Design Patterns on Software Development" 
-######Artículo escrito por Subburaj Ramasamy, Gladman Jekese y Chiedza Hwata.
-######Resumen redactado por David A. Robles Vargas y Julio Varela
-
+## Resumen del Artículo "Impact of Object Oriented Design Patterns on Software Development"   
+###### Artículo escrito por Subburaj Ramasamy, Gladman Jekese y Chiedza Hwata.  
+###### Resumen redactado por David A. Robles Vargas y Julio Varela.  
+  
 Un patrón de diseño representa una solución recurrente a un problema de diseño dentro de un área en particular de la programación (Data, interfaces, …). Estos corresponden a una especie de plano, el cual facilita y guía el desarrollo de ciertas secciones de código. Los patrones buscan solucionar problemas aún si estos no están presentes en el momento.
 
 Cristopher Alexander, durante su trabajo, se enfrentó a la pregunta de en qué momento la calidad de la arquitectura podría ser objetiva. Esto lo llevó a identificar y proponer soluciones para problemas comunes en la arquitectura, es decir, patrones de diseño.   
@@ -10,13 +10,13 @@ Cada vez más los patrones van tomando fuerza en el desarrollo de software. Se l
 
 Los patrones se dividen en 3 clases:  
 
-######Patrones de Diseño Estructural.
+###### Patrones de Diseño Estructural.
 Facilitan las relaciones entre entidades. Enfocados en clases, hacen uso de la herencia para crear interfaces y cuando están enfocados en objetos, guían la manera en la que estos son creados.    
 
-######Patrones Creacionales.
+###### Patrones Creacionales.
 Se usan de forma que la información solo esté presente donde sea necesaria, además de ocultar la manera en la que se dan las instancias de las clases. 
 
-######Patrones de Comportamiento.
+###### Patrones de Comportamiento.
 Están encargados de comunicar y distribuir la carga entre los distintos objetos que lo conforman.  
 
 Seleccionar un patrón de diseño se puede volver complicado gracias a que existen muchos de ellos y cada uno puede dar una solución con un propósito distinto. Existen múltiples formas de buscar el patrón de diseño correcto. Para dar con el patrón deseado se puede empezar por definir el problema que queremos solucionar o evitar, hacer uso de herramientas de búsquedas e investigar patrones con nombres relacionados al problema envuelto.  
