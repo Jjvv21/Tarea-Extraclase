@@ -1,6 +1,6 @@
 # Resumen del Artículo "Impact of Object Oriented Design Patterns on Software Development"   
 ###### Artículo escrito por Subburaj Ramasamy, Gladman Jekese y Chiedza Hwata.  
-###### Resumen redactado por David A. Robles Vargas y Julio Varela.  
+###### Resumen escrito por David A. Robles Vargas y Julio Varela Venegas.  
   
 Un patrón de diseño representa una solución recurrente a un problema de diseño dentro de un área en particular de la programación (Data, interfaces, …). Estos corresponden a una especie de plano, el cual facilita y guía el desarrollo de ciertas secciones de código. Los patrones buscan solucionar problemas aún si estos no están presentes en el momento.
 
