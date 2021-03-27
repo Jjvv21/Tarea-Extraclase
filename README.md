@@ -1,4 +1,4 @@
-## Resumen del Artículo "Impact of Object Oriented Design Patterns on Software Development"   
+# Resumen del Artículo "Impact of Object Oriented Design Patterns on Software Development"   
 ###### Artículo escrito por Subburaj Ramasamy, Gladman Jekese y Chiedza Hwata.  
 ###### Resumen redactado por David A. Robles Vargas y Julio Varela.  
   
